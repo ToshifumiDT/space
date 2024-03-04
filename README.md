@@ -16,6 +16,6 @@ Toshifumi made index.html and pages.
 Jonas made Figma wireframe.
 
 Added a picture of solar system for the background(Toshifumi)
-
+Added favicon(Toshifumi)
 
 
