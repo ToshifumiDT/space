@@ -1,6 +1,6 @@
 made Github page and Figma team.
 
-Decided to make website about solor system.
+Decided to make website about solar system.
     Sun
     Mercury
     Venus
