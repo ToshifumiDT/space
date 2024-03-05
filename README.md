@@ -1,3 +1,5 @@
+04/05/24
+
 made Github page and Figma team.
 
 Decided to make website about solar system.
@@ -17,5 +19,11 @@ Jonas made Figma wireframe.
 
 Added a picture of solar system for the background(Toshifumi)
 Added favicon(Toshifumi)
+
+03/05/24
+
+Jonas made more detailed wireframe for home
+
+Toshifumi made Figma wireframe for mobile
 
 
