@@ -27,3 +27,8 @@ Jonas made more detailed wireframe for home
 Toshifumi made Figma wireframe for mobile
 
 
+06/03/24
+
+worked on pages(Toshifumi)
+
+
