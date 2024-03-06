@@ -16,29 +16,53 @@ main{
 
 .introduction{
     text-align: center;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border: 3px solid #ffffff;
 }
 
 /*containter*/
 .container{
     display: grid;
+    text-align: center;
 }
 /*Keys*/
+.keys{
+    color: rgb(255, 255, 255);
+    border: 3px solid #ffffff;
+}
 #item1{
     grid-area: 1/1/3/2;
 }
 /*Picture*/
+.picture{
+    color: rgb(255, 255, 255);
+    border: 3px solid #ffffff;
+}
 #item2{
     grid-area: 3/1/4/2;
 }
 /*about1*/
+.about1{
+    color: rgb(255, 255, 255);
+    border: 3px solid #ffffff;
+}
 #item3{
     grid-area: 1/2/2/4;
 }
 /*about2*/
+.about2{
+    color: rgb(255, 255, 255);
+    border: 3px solid #ffffff;
+}
 #item4{
     grid-area: 2/2/3/4;
 }
 /*close*/
+.close{
+    color: rgb(255, 255, 255);
+    border: 3px solid #ffffff;
+}
 #item5{
     grid-area: 3/2/4/4;
 }
