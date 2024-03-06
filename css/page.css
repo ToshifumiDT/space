@@ -1,6 +1,28 @@
 
+/*header*/
+header{
+    background-color: rgb(115, 122, 113)
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 255, 255)
+}
+/*main*/
+main{
+    background-color: rgb(39, 39, 39);
+}
+
+.introduction{
+    text-align: center;
+}
 
 
+/*footer*/
+footer{
+    background-color: rgb(115, 122, 113)
+}
 /*Button*/
 .button{
     box-shadow: 6px 6px 5px #000000a6;
