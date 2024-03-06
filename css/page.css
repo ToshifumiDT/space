@@ -1,0 +1,26 @@
+
+
+
+/*Button*/
+.button{
+    box-shadow: 6px 6px 5px #000000a6;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    background-color: rgb(39, 39, 39);
+    font-size: 20px;
+    height: 40px;
+    width: 100px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin: 30px 10px;
+}
+
+.button:active {
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.7);
+}
+
+.btn-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
