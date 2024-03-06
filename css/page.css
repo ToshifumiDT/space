@@ -14,9 +14,14 @@ main{
     background-color: rgb(39, 39, 39);
 }
 
+h2{
+    font-size: 30px;
+}
+
 .introduction{
     text-align: center;
     padding: 10px;
+    margin: 0px 150px 30px;
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
 }
@@ -25,11 +30,14 @@ main{
 .container{
     display: grid;
     text-align: center;
+    margin: 30px 120px 0px;
 }
 /*Keys*/
 .keys{
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
+    margin: 10px;
+    height: 500px;
 }
 #item1{
     grid-area: 1/1/3/2;
@@ -38,6 +46,8 @@ main{
 .picture{
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
+    margin: 10px;
+    height: 400px;
 }
 #item2{
     grid-area: 3/1/4/2;
@@ -46,6 +56,7 @@ main{
 .about1{
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
+    margin: 10px;
 }
 #item3{
     grid-area: 1/2/2/4;
@@ -54,6 +65,7 @@ main{
 .about2{
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
+    margin: 10px;
 }
 #item4{
     grid-area: 2/2/3/4;
@@ -62,6 +74,7 @@ main{
 .close{
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
+    margin: 10px;
 }
 #item5{
     grid-area: 3/2/4/4;
