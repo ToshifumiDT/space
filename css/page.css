@@ -18,6 +18,30 @@ main{
     text-align: center;
 }
 
+/*containter*/
+.container{
+    display: grid;
+}
+/*Keys*/
+#item1{
+    grid-area: 1/1/3/2;
+}
+/*Picture*/
+#item2{
+    grid-area: 3/1/4/2;
+}
+/*about1*/
+#item3{
+    grid-area: 1/2/2/4;
+}
+/*about2*/
+#item4{
+    grid-area: 2/2/3/4;
+}
+/*close*/
+#item5{
+    grid-area: 3/2/4/4;
+}
 
 /*footer*/
 footer{
