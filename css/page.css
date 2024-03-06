@@ -47,7 +47,11 @@ h2{
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
     margin: 10px;
-    height: 400px;
+    height: 600px;
+}
+.picture img{
+    width: 95%;
+    height: 90%;
 }
 #item2{
     grid-area: 3/1/4/2;
@@ -57,6 +61,7 @@ h2{
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
     margin: 10px;
+    width: 70%;
 }
 #item3{
     grid-area: 1/2/2/4;
@@ -66,6 +71,7 @@ h2{
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
     margin: 10px;
+    width: 70%;
 }
 #item4{
     grid-area: 2/2/3/4;
@@ -75,6 +81,7 @@ h2{
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
     margin: 10px;
+    width: 70%;
 }
 #item5{
     grid-area: 3/2/4/4;
