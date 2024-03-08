@@ -29,6 +29,19 @@ Toshifumi made Figma wireframe for mobile
 
 06/03/24
 
-worked on pages(Toshifumi)
+Toshihumi worked on pages.
+
+Jonas worked on home.
 
 
+07/03/24
+
+Toshihumi worked on pages.
+
+Jonas worked on home.
+
+
+08/03/24
+
+Adjusting css of pages(Toshifumi)
+Added contents on pages(Toshifumi)
