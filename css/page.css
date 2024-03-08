@@ -17,11 +17,22 @@ main{
 h2{
     font-size: 30px;
 }
+/*keys*/
+.keys{
+    text-align: left;
+    padding: 50px 50px;
+}
 
+ul {
+    list-style-position: inside; 
+    padding-left: 10px;
+}
+
+/*introduction*/
 .introduction{
     text-align: center;
     padding: 10px;
-    margin: 0px 150px 30px;
+    margin: 0px 30% 30px;
     color: rgb(255, 255, 255);
     border: 3px solid #ffffff;
 }
@@ -29,8 +40,8 @@ h2{
 /*containter*/
 .container{
     display: grid;
-    text-align: center;
-    margin: 30px 120px 0px;
+    justify-content: center;
+    margin: 30px 0 0 15%;
 }
 /*Keys*/
 .keys{
@@ -50,8 +61,10 @@ h2{
     height: 600px;
 }
 .picture img{
-    width: 95%;
-    height: 90%;
+    width: 70%;
+    height: 60%;
+    display: block;
+    margin: 0 auto;
 }
 #item2{
     grid-area: 3/1/4/2;
