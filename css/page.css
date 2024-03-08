@@ -42,11 +42,10 @@ footer{
 @media (min-width: 800px) {
 
 /*main*/
-
-
 h2{
     font-size: 30px;
 }
+
 /*keys*/
 .keys{
     text-align: left;
@@ -133,12 +132,18 @@ ul {
 
 @media (max-width: 799px) {
 
+h2{
+    font-size: 30px;
+}
+
+/*introduction*/
 .introduction{
     color: rgb(255, 255, 255);
     text-align: center;
     margin: 0 10px 10px 10px;
 }
 
+/*container*/
 .container{
     color: rgb(255, 255, 255);
     display: flex;
@@ -146,10 +151,12 @@ ul {
     text-align: center;
 }
 
+/*keys*/
 .keys{
     margin: 10px;
 }
 
+/*picture*/
 .picture{
     margin: 10px;
 }
@@ -158,6 +165,7 @@ ul {
     width: 90%;
 }
 
+/*about*/
 .about1{
     margin: 10px;
 }
@@ -166,6 +174,7 @@ ul {
     margin: 10px;
 }
 
+/*closing*/
 .close{
     margin: 10px;
 }
