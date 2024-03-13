@@ -62,4 +62,5 @@ looking for images and adjusted(Toshifumi)
 13/03/24
 
 
-Added pictures to the pages. background of <main>and pictures of planet.(Toshifumi)
+Added pictures to pages. background of <main>and pictures of planet.(Toshifumi)
+Added text to pages.
