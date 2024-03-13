@@ -45,3 +45,21 @@ Jonas worked on home.
 
 Adjusting css of pages(Toshifumi)
 Added contents on pages(Toshifumi)
+
+
+11/03/24
+
+
+Toshifumi worked on pages.
+
+
+11/03/24
+
+
+looking for images and adjusted(Toshifumi)
+
+
+11/03/24
+
+
+Added pictures to the pages. background of <main>and pictures of planet.(Toshifumi)
