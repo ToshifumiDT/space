@@ -53,13 +53,13 @@ Added contents on pages(Toshifumi)
 Toshifumi worked on pages.
 
 
-11/03/24
+12/03/24
 
 
 looking for images and adjusted(Toshifumi)
 
 
-11/03/24
+13/03/24
 
 
 Added pictures to the pages. background of <main>and pictures of planet.(Toshifumi)
