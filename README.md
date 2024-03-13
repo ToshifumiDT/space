@@ -49,18 +49,19 @@ Added contents on pages(Toshifumi)
 
 11/03/24
 
-
+Jonas worked on home.
 Toshifumi worked on pages.
 
 
 12/03/24
 
-
+Jonas worked on home.
 looking for images and adjusted(Toshifumi)
 
 
 13/03/24
 
 
+Jonas worked on home.
 Added pictures to pages. background of <main>and pictures of planet.(Toshifumi)
 Added text to pages.
