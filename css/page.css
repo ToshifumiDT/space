@@ -66,9 +66,9 @@ ul {
 /*introduction*/
 .introduction{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     margin: 0px 30% 30px;
     color: rgb(255, 255, 255);
 }
@@ -82,7 +82,7 @@ ul {
 /*Keys*/
 .keys{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
     color: rgb(255, 255, 255);
     margin: 10px;
     height: 500px;
@@ -93,13 +93,16 @@ ul {
 /*Picture*/
 .picture{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
     color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+    padding: 20px;
     margin: 10px;
-    height: 550px;
+    height: auto;
 }
 .picture img{
-    width: 70%;
+    width: 90%;
     display: block;
     margin: 0 auto;
 }
@@ -109,8 +112,9 @@ ul {
 /*about1*/
 .about1{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
     color: rgb(255, 255, 255);
+    padding: 20px;
     margin: 10px;
     width: 70%;
 }
@@ -120,8 +124,9 @@ ul {
 /*about2*/
 .about2{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
     color: rgb(255, 255, 255);
+    padding: 20px;
     margin: 10px;
     width: 70%;
 }
@@ -131,8 +136,9 @@ ul {
 /*close*/
 .close{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
     color: rgb(255, 255, 255);
+    padding: 20px;
     margin: 10px;
     width: 70%;
 }
@@ -150,7 +156,7 @@ h2{
 /*introduction*/
 .introduction{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
     color: rgb(255, 255, 255);
     text-align: center;
     margin: 0 10px 10px 10px;
@@ -168,14 +174,16 @@ h2{
 /*keys*/
 .keys{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
+    padding: 10px;
     margin: 10px;
 }
 
 /*picture*/
 .picture{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
+    padding: 10px;
     margin: 10px;
 }
 
@@ -186,20 +194,23 @@ h2{
 /*about*/
 .about1{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
+    padding: 10px;
     margin: 10px;
 }
 
 .about2{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
+    padding: 10px;
     margin: 10px;
 }
 
 /*closing*/
 .close{
     border-radius: 20px;
-    background-color: rgba(30, 30, 30, 0.6);
+    background-color: rgba(30, 30, 30, 0.7);
+    padding: 10px;
     margin: 10px;
 }
 
