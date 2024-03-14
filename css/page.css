@@ -65,6 +65,7 @@ ul {
 
 /*introduction*/
 .introduction{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     text-align: center;
     padding: 10px;
@@ -80,6 +81,7 @@ ul {
 }
 /*Keys*/
 .keys{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     color: rgb(255, 255, 255);
     margin: 10px;
@@ -90,6 +92,7 @@ ul {
 }
 /*Picture*/
 .picture{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     color: rgb(255, 255, 255);
     margin: 10px;
@@ -105,6 +108,7 @@ ul {
 }
 /*about1*/
 .about1{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     color: rgb(255, 255, 255);
     margin: 10px;
@@ -115,6 +119,7 @@ ul {
 }
 /*about2*/
 .about2{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     color: rgb(255, 255, 255);
     margin: 10px;
@@ -125,6 +130,7 @@ ul {
 }
 /*close*/
 .close{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     color: rgb(255, 255, 255);
     margin: 10px;
@@ -143,6 +149,7 @@ h2{
 
 /*introduction*/
 .introduction{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     color: rgb(255, 255, 255);
     text-align: center;
@@ -160,12 +167,14 @@ h2{
 
 /*keys*/
 .keys{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     margin: 10px;
 }
 
 /*picture*/
 .picture{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     margin: 10px;
 }
@@ -176,17 +185,20 @@ h2{
 
 /*about*/
 .about1{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     margin: 10px;
 }
 
 .about2{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     margin: 10px;
 }
 
 /*closing*/
 .close{
+    border-radius: 20px;
     background-color: rgba(30, 30, 30, 0.6);
     margin: 10px;
 }
