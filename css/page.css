@@ -99,7 +99,7 @@ ul {
     align-items: center;
     padding: 20px;
     margin: 10px;
-    height: 540px;
+    height: auto;
 }
 .picture img{
     width: 90%;

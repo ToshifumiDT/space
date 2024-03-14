@@ -68,3 +68,10 @@ Jonas worked on home.
 
 Added pictures to pages. background of <main>and pictures of planet.(Toshifumi)
 Added text to pages.
+
+
+14/03/24
+
+Jonas worked on home.
+
+adjusted css of the pages(Toshifumi)
