@@ -19,14 +19,14 @@
 
   /*--- Background Images ---*/
   .bg-img {
-    background-image: url(./Images/Comin\ \ 22222.png);
+    background-image: url(../images/Head\ background\ image.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 70vh;
   }
   body {
-    background-image: url(./Image/stars.jpg);
+    background-image: url(../images/Background\ star\ image.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -48,7 +48,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Solar\ system.webp);
+    background-image: url(.);
     background-position: center;
   }
   .grid-item1 {
