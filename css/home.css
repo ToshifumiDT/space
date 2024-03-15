@@ -26,9 +26,9 @@
     height: 70vh;
   }
   body {
-    background-image: url(./Image/stars.jpg);
+    background-image: url(./);
     background-size: cover;
-    background-position: center;
+    background-position:center ;
   }
   
   
