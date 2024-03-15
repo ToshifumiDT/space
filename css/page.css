@@ -44,7 +44,7 @@ main{
     align-items: center;
     flex-direction: column;
 }
-
+/*for desktop*/
 @media (min-width: 800px) {
 
 /*main*/
@@ -147,6 +147,7 @@ ul {
 }
 }
 
+/*for mobile*/
 @media (max-width: 799px) {
 
 h2{
