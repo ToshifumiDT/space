@@ -14,25 +14,27 @@
   .border {
     background-color: rgb(24, 22, 22);
     height: 10vh;
+    text-align: center;
+    color: rgb(46, 199, 135);
   }
 
 
   /*--- Background Images ---*/
   .bg-img {
-    background-image: url(./Images/Comin\ \ 22222.png);
+    background-image: url(../images/Head\ background\ image.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 70vh;
   }
   body {
-    background-image: url(./Image/stars.jpg);
+    background-image: url(../images/background2.jpg);
     background-size: cover;
     background-position: center;
   }
 
 
-  /*--- Grid Items ---*/
+  /*--- Grid ---*/
   .grid {
     display: grid;
     grid-template-columns: repeat(3, 300px);
@@ -43,20 +45,23 @@
     column-gap: 100px;
   }
 
+
+  /*--- Grid Items ---*/
   .grid-item {
     height: 300px;
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Solar\ system.webp);
+    background-image: url(../images/Sun\ homepage.webp);
     background-position: center;
+    background-size: cover;
   }
   .grid-item1 {
     height: 300px;
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Solar-system-3-scaled.jpg);
+    background-image: url(../images/Mercury\ homepage.webp);
     background-size: cover;
     background-position: center;
   }
@@ -65,7 +70,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Earth.jfif);
+    background-image: url(../images/Venus\ homepage.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -74,7 +79,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Jupiter.jfif);
+    background-image: url(../images/Earth\ homepage.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -83,7 +88,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Mercury.webp);
+    background-image: url(../images/Mars\ homepage.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -92,7 +97,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Neptune.jpg);
+    background-image: url(../images/Jupiter\ homepage.webp);
     background-size: cover;
     background-position: center;
   }
@@ -101,7 +106,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/OSIRIS_Mars_true_color.jpg);
+    background-image: url(../images/Saturn\ homepage.avif);
     background-size: cover;
     background-position: center;
   }
@@ -110,7 +115,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Sun.jpg);
+    background-image: url(../images/Uranus\ homepage.avif);
     background-size: cover;
     background-position: center;
   }
@@ -119,7 +124,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Uranus.jpg);
+    background-image: url(../images/Naptune\ homepage.webp);
     background-size: cover;
     background-position: center;
   }
@@ -128,31 +133,23 @@
   /*--- Button ---*/
   .small_btn{
     display: flex;
+    display: table-cell;
     background-color: rgb(233, 240, 230);
     position: relative;
     border-radius: 25px;
     font-size: 25px;
-    margin: 0;
-    padding: 0;
     top: 240px;
-    left: 70px;
+    width: 300px;
     background: rgba(0, 0, 0, 0.5);
       box-shadow: 0 5px 5px rgba(192, 20, 20, 0.1);
       padding: 10px;
       letter-spacing: 1px;
-      text-decoration: none;
-      overflow: hidden;
       color: #c1bbce;
-      font-weight: 400px;
-      z-index: 1;
       transition: 0.5s;
       backdrop-filter: blur(1px);
     cursor: pointer;
   }
-  button span {
-    position: relative;
-    z-index: 1;
-  }
+  
   button:hover {
     background-color: rgb(36, 31, 31);
     transform: translateY(-5px);
