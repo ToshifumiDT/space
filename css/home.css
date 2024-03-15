@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  /*--- Borders ---*/
+  .top-border {
+    background-color: rgb(24, 22, 22);
+    height: 5vh;
+    text-align: center;
+    color: #fff;
+  }
+  .border {
+    background-color: rgb(24, 22, 22);
+    height: 10vh;
+  }
+  
+  
+  /*--- Background Images ---*/
+  .bg-img {
+    background-image: url(./Images/Comin\ \ 22222.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+  }
+  body {
+    background-image: url(./Image/stars.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  
+  /*--- Grid Items ---*/
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    grid-template-rows: 500px 100px 500px;
+    place-content: center;
+    align-items: center;
+    row-gap: 100px;
+    column-gap: 100px;
+  }
+  
+  .grid-item {
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+    margin-inline: auto;
+    background-image: url(./Image/Solar\ system.webp);
+    background-position: center;
+  }
+  .grid-item1 {
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+    margin-inline: auto;
+    background-image: url(./Image/Solar-system-3-scaled.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .grid-item2 {
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+    margin-inline: auto;
+    background-image: url(./Image/Planets/Earth.jfif);
+    background-size: cover;
+    background-position: center;
+  }
+  .grid-item3 {
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+    margin-inline: auto;
+    background-image: url(./Image/Planets/Jupiter.jfif);
+    background-size: cover;
+    background-position: center;
+  }
+  .grid-item4 {
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+    margin-inline: auto;
+    background-image: url(./Image/Planets/Mercury.webp);
+    background-size: cover;
+    background-position: center;
+  }
+  .grid-item5 {
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+    margin-inline: auto;
+    background-image: url(./Image/Planets/Neptune.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .grid-item6 {
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+    margin-inline: auto;
+    background-image: url(./Image/Planets/OSIRIS_Mars_true_color.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .grid-item7 {
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+    margin-inline: auto;
+    background-image: url(./Image/Planets/Sun.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .grid-item8 {
+    height: 300px;
+    width: 300px;
+    border: solid 5px black;
+    margin-inline: auto;
+    background-image: url(./Image/Planets/Uranus.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  
+  /*--- Button ---*/
+  .small_btn{
+    display: flex;
+    background-color: rgb(233, 240, 230);
+    position: relative;
+    border-radius: 25px;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    top: 240px;
+    left: 70px;
+    background: rgba(0, 0, 0, 0.5);
+      box-shadow: 0 5px 5px rgba(192, 20, 20, 0.1);
+      padding: 10px;
+      letter-spacing: 1px;
+      text-decoration: none;
+      overflow: hidden;
+      color: #c1bbce;
+      font-weight: 400px;
+      z-index: 1;
+      transition: 0.5s;
+      backdrop-filter: blur(1px);
+    cursor: pointer;
+  }
+  button span {
+    position: relative;
+    z-index: 1;
+  }
+  button:hover {
+    background-color: rgb(36, 31, 31);
+    transform: translateY(-5px);
+  }
+  
+  
+  /*--- Footer ---*/
+  .footer {
+    background-color: rgb(37, 26, 26);
+    height: 5h;
+    color: rgb(37, 26, 26);
+  }
