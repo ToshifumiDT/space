@@ -50,15 +50,16 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(.);
+    background-image: url(../images/Sun\ homepage.webp);
     background-position: center;
+    background-size: cover;
   }
   .grid-item1 {
     height: 300px;
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Solar-system-3-scaled.jpg);
+    background-image: url(../images/Mercury\ homepage.webp);
     background-size: cover;
     background-position: center;
   }
@@ -67,7 +68,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Earth.jfif);
+    background-image: url(../images/Venus\ homepage.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -76,7 +77,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Jupiter.jfif);
+    background-image: url(../images/Earth\ homepage.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -85,7 +86,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Mercury.webp);
+    background-image: url(../images/Mars\ homepage.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -94,7 +95,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Neptune.jpg);
+    background-image: url(../images/Jupiter\ homepage.webp);
     background-size: cover;
     background-position: center;
   }
@@ -103,7 +104,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/OSIRIS_Mars_true_color.jpg);
+    background-image: url(../images/Saturn\ homepage.avif);
     background-size: cover;
     background-position: center;
   }
@@ -112,7 +113,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Sun.jpg);
+    background-image: url(../images/Uranus\ homepage.avif);
     background-size: cover;
     background-position: center;
   }
@@ -121,7 +122,7 @@
     width: 300px;
     border: solid 5px black;
     margin-inline: auto;
-    background-image: url(./Image/Planets/Uranus.jpg);
+    background-image: url(../images/Naptune\ homepage.webp);
     background-size: cover;
     background-position: center;
   }
