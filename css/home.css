@@ -32,7 +32,7 @@
   }
 
 
-  /*--- Grid Items ---*/
+  /*--- Grid ---*/
   .grid {
     display: grid;
     grid-template-columns: repeat(3, 300px);
@@ -43,6 +43,8 @@
     column-gap: 100px;
   }
 
+
+  /*--- Grid Items ---*/
   .grid-item {
     height: 300px;
     width: 300px;
@@ -128,23 +130,18 @@
   /*--- Button ---*/
   .small_btn{
     display: flex;
+    display: table-cell;
     background-color: rgb(233, 240, 230);
     position: relative;
     border-radius: 25px;
     font-size: 25px;
-    margin: 0;
-    padding: 0;
     top: 240px;
-    left: 70px;
+    width: 300px;
     background: rgba(0, 0, 0, 0.5);
       box-shadow: 0 5px 5px rgba(192, 20, 20, 0.1);
       padding: 10px;
       letter-spacing: 1px;
-      text-decoration: none;
-      overflow: hidden;
       color: #c1bbce;
-      font-weight: 400px;
-      z-index: 1;
       transition: 0.5s;
       backdrop-filter: blur(1px);
     cursor: pointer;
